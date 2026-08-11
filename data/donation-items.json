@@ -1,11 +1,11 @@
 [
   {
     "id": "d1",
-    "amount": 500,
-    "titleEn": "Give a ration pack",
-    "titleUr": "ایک راشن پیکٹ عطیہ کریں",
-    "accountNumber": "PK00 BANK 0000 1234 5678",
-    "accountHolder": "Open Ledger Welfare Trust",
+    "titleEn": "Smallest Donation",
+    "titleUr": "سب سے چھوٹا عطیہ",
+    "amount": 20,
+    "accountHolder": "Hamza Ahmad",
+    "accountNumber": "03119595969",
     "order": 1
   },
   {
