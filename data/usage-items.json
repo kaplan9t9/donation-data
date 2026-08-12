@@ -1,14 +1,5 @@
 [
   {
-    "id": "u1",
-    "titleEn": "Winter Ration Packs",
-    "titleUr": "سرمائی راشن پیکٹ",
-    "descEn": "Flour, oil, pulses and warm essentials packed for families before the cold sets in.",
-    "descUr": "سردی شروع ہونے سے پہلے خاندانوں کے لیے آٹا، تیل، دالیں اور دیگر ضروری اشیاء کے پیکٹ تیار کیے جاتے ہیں۔",
-    "image": "images/usage/u1.png",
-    "order": 1
-  },
-  {
     "id": "u2",
     "titleEn": "Emergency Medical Aid",
     "titleUr": "ہنگامی طبی امداد",
